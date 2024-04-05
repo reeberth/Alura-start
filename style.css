@@ -1,3 +1,19 @@
 body{
     background-color: rgb(207, 50, 50)
+
+}
+
+.cabeçalho{
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+}
+
+.cabeçalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.logo{
+    width: 25%;
 }
