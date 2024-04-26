@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(207, 50, 50)
+    background-color: rgb(207, 50, 50);
+    color: #000000;
 
 }
 
@@ -25,5 +26,11 @@ padding: 24px;
 }
 
 .escola{
-    background-image: linear-gradient( rgb(207, 50, 50) #FFFFFF);
+    background-image: linear-gradient(#CF3232, #8B0000);
+    justify-content: center;
+    align-items: center;
+}
+
+.escola-div-conteudo{
+width: 35%;
 }
