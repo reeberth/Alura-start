@@ -19,3 +19,11 @@ padding: 24px;
 .logo{
     width: 25%;
 }
+
+.escola-img{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient( rgb(207, 50, 50) #FFFFFF);
+}
