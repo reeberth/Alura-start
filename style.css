@@ -52,3 +52,14 @@ width: 35%;
 .estudante-icone{
     width: 30px;
 }
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 24px 0;
+}
